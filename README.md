@@ -7,7 +7,7 @@ The objective is to define a hierarchy between tags and have a breakdown on how 
 The output is printed *à la* GNU [tree](https://linux.die.net/man/1/tree) utility.
 
 ## Installation
-1. Download the latest executable for your operating system from the [releases page]().
+1. Download the latest executable for your operating system from the [releases page](https://github.com/crossbone-magister/tag-tree/releases).
 2. Add it to the Timewarrior extension folder as described in the [documentation](https://timewarrior.net/docs/api/).
 3. Verify that the extension is active and installed by running `timew extensions`.
 
